@@ -1,0 +1,6 @@
+{
+  "name": "Google Search Q&A Bot",
+  "description": "Google Search question and answer bot with live web search grounding, high-thinking reasoning, Python scraper module, and GitHub Actions CI workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
